@@ -1,6 +1,6 @@
-# [Supreme Directory](https://wpgeodirectory.com/downloads/supreme-directory/) #
+# CityPride WordPress Theme
 
-This theme started out as the Supreme Directory theme, a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) of [Directory Starter](https://wordpress.org/themes/directory-starter/) theme and Its directory features heavily depends on the plugin [GeoDirectory](https://wordpress.org/plugins/geodirectory/).
+This theme started out as the Supreme Directory theme, a [child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) of [Directory Starter](https://wordpress.org/themes/directory-starter/) theme and its directory features heavily depend on the plugin [GeoDirectory](https://wordpress.org/plugins/geodirectory/).
 Documentation for the original theme can be found [here](https://docs.wpgeodirectory.com/supreme-directory-overview/)
 
 ## Prerequisites ##
